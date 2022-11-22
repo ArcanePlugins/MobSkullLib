@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🧟‍ MobSkullLib 🐸
+# MobSkullLib
 
-###### [Wiki][2] • [Issue Tracker][3] • [Discord Guild][4]
+###### • [Wiki][2] • [Issue Tracker][3] • [Discord Guild][4] •
 
 MobSkullLib is a multi-platform resource for plugin development, providing an easy way to
 retrieve a player skull with the texture of a given entity type. It utilises textures retrieved
