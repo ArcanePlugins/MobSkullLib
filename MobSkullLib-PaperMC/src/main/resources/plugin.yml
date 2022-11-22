@@ -1,0 +1,5 @@
+api-version: "1.18"
+authors: ["lokka30"]
+main: "io.github.arcaneplugins.mobskulllib.papermc.MobSkullLib"
+name: "MobSkullLib"
+version: "${project.version}"
